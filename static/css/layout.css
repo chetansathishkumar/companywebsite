@@ -21,11 +21,11 @@ body{
     height: 250px;
     text-align: center;
     font-size: xx-large;
-    background-image : url("design.jpg");
+    background-image : url("/static/img/design2.jpg");
     background-size:cover;
     margin: 0px 0px 0px 0px;
     padding-top: 150px;
-    color: black;
+    color: white;
 }
 
 .menu{
